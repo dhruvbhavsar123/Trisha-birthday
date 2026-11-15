@@ -122,7 +122,7 @@ function submitBirthdayDate() {
     }
     const archText = document.getElementById('arch-text-path');
     if (archText) {
-      archText.textContent = "I have made something for you";
+      archText.textContent = "A special surprise for my siss😝";
     }
     const textEl = document.querySelector('.arched-text');
     if (textEl) {
@@ -134,7 +134,7 @@ function submitBirthdayDate() {
     const promptEl = document.getElementById('surprise-prompt');
     if (promptEl) {
       promptEl.style.display = 'block';
-      promptEl.innerHTML = "Do you wanna see it ?";
+      promptEl.innerHTML = "Trisha, are you ready!!!";
       triggerElementAnim(promptEl, 'prompt-entrance-pop');
     }
     const danceWrap = document.querySelector('.dance-gif-wrap');
