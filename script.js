@@ -474,7 +474,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "May God bless u with good future and your dream to become clinical psychologist (if im not wrong🤔) come true soon🧿🤘 Once again happiest birthday gurll🥹🥂🎂🫂🎉🫶"
+    text: "May God bless u with good future and your dream to become clinical psychologist (if im not wrong🤔) come true soon🧿🤘 Once again happiest birthday babyy gurll🥹🥂🎂🫂🎉🫶"
   }
 ];
 
