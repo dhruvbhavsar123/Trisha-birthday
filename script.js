@@ -414,9 +414,9 @@ const MYSTERY_GIFTS = {
     isCake: true
   },
   3: {
-    icon: "👑",
-    title: "Gift #3: Lifetime Happiness Pass",
-    desc: "Unlimited hugs, endless laughter, and all your deepest birthday wishes coming true! 🎁💫💖"
+    icon: "💗",
+    title: "A special gift for Trisha",
+    desc: "A little surprise filled with happiness, friendship and unforgettable memories 🎁💫💖"
   }
 };
 
